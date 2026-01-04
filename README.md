@@ -1,6 +1,6 @@
 ## Hello there!
 
-I'm Mrak, a young software engineer just about to finish my engineering degree and looking for a job.
+I'm Mrak, a young software engineer just about to finish my master's degree and looking for a job.
 
 I'm open to working with anything, but my favourite programming languages are C# and TypeScript. <br>
 I'm experienced with creating back-ends with ASP.NET and Entity Framework Core. <br>
@@ -8,7 +8,7 @@ For front-ends, I have the most experience with vanilla JavaScript and CSS, but 
 I also love creating games for fun, formerly in Unity but nowadays in Godot.
 
 My most notable project is [UStacker](https://github.com/MrakDun-desu/UStacker-old), a hyper-customizable stacker game
-I would like to rewrite for Godot and make multiplayer one day.
+I want to rewrite for Godot and make multiplayer one day.
 
 ### ✨ Fun Facts ✨ 
 
